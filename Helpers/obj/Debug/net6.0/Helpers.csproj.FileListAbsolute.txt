@@ -1,0 +1,14 @@
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\bin\Debug\net6.0\Helpers.runtimeconfig.json
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\Helpers.genruntimeconfig.cache
+C:\Users\CRS\Source\Repos\HumanResourceProjectInEc\Helpers\obj\Debug\net6.0\ref\Helpers.dll
